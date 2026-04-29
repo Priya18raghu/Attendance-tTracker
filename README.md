@@ -56,10 +56,11 @@ Task/
 - **Python 3.8+** installed on your system
 - **pip** (Python package manager)
 
-### Step 1 — Clone or Open the Project
+### Step 1 — Clone the Project
 
 ```bash
-cd path/to/Task
+git clone https://github.com/Priya18raghu/Attendance-tTracker.git
+cd Attendance-tTracker
 ```
 
 ### Step 2 — Install Backend Dependencies
